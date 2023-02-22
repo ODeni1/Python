@@ -11,6 +11,3 @@ print(maxi)
 # if number > maxi:
 # maxi = number
 # return maxi
-
-
-
